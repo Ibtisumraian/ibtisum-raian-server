@@ -1,0 +1,15 @@
+{
+  "name": "ibtisum-raian-server",
+  "version": "1.0.0",
+  "main": "api/send-email.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Contact form backend for sending email via Vercel",
+  "dependencies": {
+    "nodemailer": "^7.0.4"
+  }
+}
