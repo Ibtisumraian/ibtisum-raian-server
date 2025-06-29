@@ -46,16 +46,3 @@ Sends an email from the contact form.
 }
 
 
----
-
-## 👤 Author
-
-**Ibtisum Raian**  
-Email: ibtisumraian@gmail.com  
-GitHub: [Ibtisumraian](https://github.com/Ibtisumraian)
-
----
-
-
-
-## 🔐 Environment Variables
